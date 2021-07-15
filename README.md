@@ -16,13 +16,13 @@ In the GUI Application I've used: DataGridView, OpenFileDialog and SaveFileDialo
 
 The operations that can be done with the application: 
 
-Load - load a spreadsheet in .dat format.
+* **Load** - load a spreadsheet in .dat format.
 
-SetCell - choose a cell and change it's value.
+* **SetCell** - choose a cell and change it's value.
 
-GetCell - shows the value in the cell.
+* **GetCell** - shows the value in the cell.
 
-Save - saves the new spreadsheet in .dat format
+* **Save** - saves the new spreadsheet in .dat format
 
 GetCell example:
 
