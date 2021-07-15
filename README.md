@@ -24,5 +24,6 @@ GetCell - shows the value in the cell.
 
 Save - saves the new spreadsheet in .dat format
 
-GetCell example
+GetCell example:
+
 ![image](https://user-images.githubusercontent.com/62620992/125846358-2de32914-7abb-4596-9ea8-053ffbcb4c02.png)
