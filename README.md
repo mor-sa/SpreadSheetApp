@@ -1,8 +1,8 @@
 # SpreadSheetApp
 
-## Overview
-
 ![image](https://user-images.githubusercontent.com/62620992/125846294-65d21674-bb9e-4968-a76b-4ca5088e2a25.png)
+
+## Overview
 
 This is a SpreadSheetApp created for my Operating Systems class.
 
@@ -24,5 +24,5 @@ GetCell - shows the value in the cell.
 
 Save - saves the new spreadsheet in .dat format
 
-![image](https://user-images.githubusercontent.com/62620992/125846358-2de32914-7abb-4596-9ea8-053ffbcb4c02.png)
 GetCell example
+![image](https://user-images.githubusercontent.com/62620992/125846358-2de32914-7abb-4596-9ea8-053ffbcb4c02.png)
